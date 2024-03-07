@@ -5,7 +5,7 @@ description: a project with a background image
 img: assets/img/pr3_kaggle_mol.png
 importance: 1
 category: fun
-related_publications: true
+related_publications: false
 ---
 
 

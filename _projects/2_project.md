@@ -5,7 +5,7 @@ description: a project with a background image
 img: assets/img/pr2_kaggle_bms.png
 importance: 1
 category: fun
-related_publications: true
+related_publications: false
 ---
 
 
