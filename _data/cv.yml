@@ -8,37 +8,53 @@
     - name: Languages
       value: Korea, English
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: Korea Advanced Institute of Science and Technology
-      year: 2020
-      description:
-        - Molecular Simulation Laboratory (Prof. Jihan Kim)
-        - Molecular simulation on 2-D materials (MoS2, Graphene, Black phosphorous) using Density Functional Theory
-        - Anomaly detection for chemical sensors using deep learning
-        - Graph neural networks for adsorption property prediction of gases in porous materials
-    - title: Korea Advanced Institute of Science and Technology
-      year: 2016
-      description:
-        - Molecular Simulation Laboratory (Prof. Jihan Kim)
-        - Molecular simulation on porous materials (MOFs), metal catalysis, and 2-D materials using Density Functional Theory, Grand Canonical Monte Carlo simulation
-    - title: Pusan National University
-      year: 2014
-
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: AI researcher
-      institution: Kakao Brain Corp.
-      year: 2019 - 2021
-      description:
-        - Reproduced and implemented various foundation models for protein.
-    - title: Senior researcher
-      institution: Korea Atomic Energy Research Institute
-      year: 2019 - 2021
-      description:
-        - Conducted data scientist role.
-          - Fulfilled data science duties for the atomic field in a government-funded research institute.
+#- title: Education
+#  type: time_table
+#  contents:
+#    - title: PhD
+#      institution: Korea Advanced Institute of Science and Technology
+#      year: 2020
+#      description:
+#        - Molecular Simulation Laboratory (Prof. Jihan Kim)
+#        - Molecular simulation on 2-D materials (MoS2, Graphene, Black phosphorous) using Density Functional Theory
+#        - Anomaly detection for chemical sensors using deep learning
+#        - Graph neural networks for adsorption property prediction of gases in porous materials
+#    - title: Korea Advanced Institute of Science and Technology
+#      year: 2016
+#      description:
+#        - Molecular Simulation Laboratory (Prof. Jihan Kim)
+#        - Molecular simulation on porous materials (MOFs), metal catalysis, and 2-D materials using Density Functional Theory, Grand Canonical Monte Carlo simulation
+#    - title: Pusan National University
+#      year: 2014
+#
+#
+#- title: Experience
+#  type: time_table
+#  contents:
+#    - title: AI Researcher (AI Drug Discovery Team Leader)
+#      institution: Kakao Brain Corp.
+#      year: Dec 2021 - Present
+#      description:
+#        - Reproduced and implemented various foundation models for protein.
+#          - Developed various protein and antibody-specific language models, such as BERT, GPT2, FIM etc.
+#          - Reproduced various protein-related language models, such as ESM and ProtGPT.
+#        - Conducted cutting-edge research in ML and structural biology to drug discovery and design.
+#          - Developed flexible protein docking using denoising and equivariant neural networks.
+#          - Developed reinforcement learning framework for protein sequence design.
+#          - Developed SOTA inverse-folding model via denoising training.
+#          - Developed a new type of antibody-antigen complex prediction model.
+#          - Developed multi-modal foundation model for protein representation learning.
+#          - Developed a new type of protein representation learning framework focusing on surfaces.
+#          - Developed a new type of protein generative model focusing on surfaces.
+#        - Managed and conducted antibody design for specific epitopes with experimental scientists.
+#          - Collaborated with external computational and experimental scientists for de novo antibody design.
+#          - Designed antibody design project for specific epitopes using various in-house deep learning models (generative models, structure prediction models, affinity prediction models, etc.), and computational tools (Rosetta software).
+#        - Led AI drug discovery team from scratch for two years.
+#          - Led three doctoral-level researchers.
+#          - Mentored two master-level intern researchers.
+#    - title: Senior researcher
+#      institution: Korea Atomic Energy Research Institute
+#      year: 2019 - 2021
+#      description:
+#        - Conducted data scientist role.
+#          - Fulfilled data science duties for the atomic field in a government-funded research institute.
