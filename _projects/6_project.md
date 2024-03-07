@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bengali.AI Handwritten Grapheme Classification
+title: (Gold medal) Bengali.AI Handwritten Grapheme Classification
 description: a project with a background image
 img: assets/img/pr3_kaggle_mol.png
 importance: 1

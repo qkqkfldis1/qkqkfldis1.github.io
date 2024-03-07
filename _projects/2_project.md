@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bristol-Myers Squibb – Molecular Translation
+title: (Gold medal) Bristol-Myers Squibb – Molecular Translation
 description: a project with a background image
 img: assets/img/pr2_kaggle_bms.png
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Detect secret data hidden within digital images
+title: (Gold medal) Detect secret data hidden within digital images
 description: a project with a background image
 img: assets/img/pr4_kaggle_stega.png
 importance: 1
