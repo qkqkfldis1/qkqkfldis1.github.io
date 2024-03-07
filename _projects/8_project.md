@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Research on AI4biology
-description: a project with a background image
+
+[//]: # (description: a project with a background image)
 
 [//]: # (img: #assets/img/pr7_eccv_drama.png)
 importance: 1
