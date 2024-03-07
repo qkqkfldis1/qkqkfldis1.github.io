@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bristol-Myers Squibb – Molecular Translation
+title: Detect secret data hidden within digital images
 description: a project with a background image
 img: assets/img/pr4_kaggle_stega.png
 importance: 1
