@@ -33,14 +33,9 @@
   contents:
     - title: AI researcher
       institution: Kakao Brain Corp.
-      year: 2021 - current
+      year: 2019 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Reproduced and implemented various foundation models for protein.
     - title: Senior researcher
       institution: Korea Atomic Energy Research Institute
       year: 2019 - 2021
