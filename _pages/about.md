@@ -14,7 +14,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Youhan Lee is a talented AI/ML research scientist and engineer, specialized in chemical and biomolecular engineering and currently residing in Daejeon, South Korea. His academic rigor is backed by a Ph.D. and his industry expertise is highlighted by his achievements as a top-ranked Kaggle Grandmaster, which places him in the top 0.1% in the global data science community. Lee is not just a theoretician but also a certified Machine Learning Expert, acknowledged by the Google Developers Experts Program. His career is defined by a fusion of AI and molecular simulation, significantly impacting the field of material discovery.
