@@ -9,7 +9,7 @@ importance: 1
 category: work
 related_publications: false
 ---
-
+- Time: from 2022~current
 - Developed flexible protein docking using denoising and equivariant neural networks.
 - Developed reinforcement learning framework for protein sequence design.
 - Developed SOTA inverse-folding model via denoising training.
