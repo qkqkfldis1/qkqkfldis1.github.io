@@ -12,21 +12,21 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Korea Advanced Institute of Science and Technology
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Molecular Simulation Laboratory (Prof. Jihan Kim)
+        - Molecular simulation on 2-D materials (MoS2, Graphene, Black phosphorous) using Density Functional Theory
+        - Anomaly detection for chemical sensors using deep learning
+        - Graph neural networks for adsorption property prediction of gases in porous materials
+    - title: Korea Advanced Institute of Science and Technology
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - Molecular Simulation Laboratory (Prof. Jihan Kim)
+        - Molecular simulation on porous materials (MOFs), metal catalysis, and 2-D materials using Density Functional Theory, Grand Canonical Monte Carlo simulation
+    - title: Pusan National University
+      year: 2014
+
 
 - title: Experience
   type: time_table
