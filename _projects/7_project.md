@@ -1,7 +1,8 @@
 ---
 layout: page
 title: (3rd prize) 2nd DramaQA Challenge 2020 16th European Conference on Computer Vision (ECCV)
-description: a project with a background image
+
+[//]: # (description: a project with a background image)
 img: assets/img/pr7_eccv_drama.png
 importance: 1
 category: work

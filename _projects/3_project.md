@@ -1,7 +1,8 @@
 ---
 layout: page
 title: (Gold medal) Predicting Molecular Properties
-description: a project with a background image
+
+[//]: # (description: a project with a background image)
 img: assets/img/pr3_kaggle_mol.png
 importance: 1
 category: fun

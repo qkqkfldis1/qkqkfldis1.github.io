@@ -1,7 +1,8 @@
 ---
 layout: page
 title: (Gold medal) Detect diabetic retinopathy using Deep learning
-description: a project with a background image
+
+[//]: # (description: a project with a background image)
 img: assets/img/pr1_kaggle_aptos.png
 importance: 1
 category: fun

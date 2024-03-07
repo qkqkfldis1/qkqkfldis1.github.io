@@ -1,7 +1,9 @@
 ---
 layout: page
 title: (Gold medal) Bengali.AI Handwritten Grapheme Classification
-description: a project with a background image
+
+[//]: # (description: a project with a background image)
+
 img: assets/img/pr3_kaggle_mol.png
 importance: 1
 category: fun

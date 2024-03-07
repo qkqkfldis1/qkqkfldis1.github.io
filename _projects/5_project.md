@@ -1,7 +1,8 @@
 ---
 layout: page
 title: (Gold medal) COVID-19 mRNA Vaccine Degradation Prediction
-description: a project with a background image
+
+[//]: # (description: a project with a background image)
 img: assets/img/pr5_kaggle_rna.png
 importance: 1
 category: fun
